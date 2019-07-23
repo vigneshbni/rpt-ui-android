@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BNI reporting</string>
+
+    <!-- Login page -->
+
+    <string name="login_button">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+
 </resources>
